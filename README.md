@@ -2,6 +2,7 @@
 
 🎓 BTech Student
 💻 Java Developer
+    C developer
 🌱 Currently learning:
 - Object-Oriented Programming
 - Data Structures & Algorithms
@@ -16,9 +17,6 @@
 
 ## Current Goals
 
-- Build 10 Java Projects
-- Learn Spring Boot
-- Contribute to Open Source
 
 ## Connect
 
