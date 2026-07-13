@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Ojas
 
-<!--
-**OjasBali17/OjasBali17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student
+💻 Java Developer
+🌱 Currently learning:
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Git & GitHub
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Java
+🗄️ MySQL
+🐙 Git
+💻 VS Code / IntelliJ IDEA
+
+## Current Goals
+
+- Build 10 Java Projects
+- Learn Spring Boot
+- Contribute to Open Source
+
+## Connect
+
+LinkedIn: ...
+Email: ...
