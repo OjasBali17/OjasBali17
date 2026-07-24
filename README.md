@@ -182,61 +182,18 @@ while(success != true)
 
 ---
 
-# 💻 Coding Profiles
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
-# 📈 GitHub Analytics
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
-# 📊 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
@@ -267,23 +224,8 @@ Hands-on implementations of Machine Learning algorithms while learning AI concep
 - Prompt Engineering Toolkit
 - Personal Finance Tracker
 - Smart Expense Analyzer
-- Hospital Management System
+- Library Management System
 - AI Resume Analyzer
 
 ---
 
-<div align="center">
-
-# 💬 Philosophy
-
-> *"Technology changes every year.*
->
-> *The ability to learn lasts a lifetime."*
-
-### Building.
-### Learning.
-### Improving.
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-</div>
