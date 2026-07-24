@@ -157,46 +157,6 @@ Fun Fact:
 
 ---
 
-# 💭 Engineering Mindset
-
-```cpp
-while(success != true)
-{
-    Learn();
-
-    Build();
-
-    Debug();
-
-    Improve();
-
-    Repeat();
-}
-```
-
-> **Every bug teaches something.**
->
-> **Every project builds experience.**
->
-> **Every day is an opportunity to improve.**
-
----
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
 # 🚀 Featured Projects
 
 ### 🍲 AI Recipe Generator
