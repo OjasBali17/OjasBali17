@@ -59,7 +59,7 @@ A featured project in my portfolio. **EventLens is an event photography planning
 </p>
 
 
- `06 // FIND ME`
+## `06 // FIND ME`
 
 <div align="center">
 
