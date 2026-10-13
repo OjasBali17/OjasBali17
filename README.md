@@ -59,23 +59,7 @@ A featured project in my portfolio. **EventLens is an event photography planning
 </p>
 
 
-## `05 // CONTRIBUTION SNAKE`
-
-To enable the animated contribution graph, add the official-style GitHub Actions workflow to **your profile repository** (`OjasBali17/OjasBali17`). It should generate `output/github-contribution-grid-snake.svg` and commit the generated file to the `output` branch. Then uncomment the image below. The workflow needs permission to write repository contents; review the action source and pin third-party actions to a version or commit you trust.
-
-<!-- After configuring the workflow, uncomment:
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OjasBali17/OjasBali17/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OjasBali17/OjasBali17/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/OjasBali17/OjasBali17/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
--->
-
-**Fallback:** If you don’t set up the workflow, the contribution graph on your [GitHub profile](https://github.com/OjasBali17) still shows your activity.
-
-## `06 // FIND ME`
+ `06 // FIND ME`
 
 <div align="center">
 
