@@ -30,7 +30,7 @@ I’m Ojas, a B.Tech engineering student learning to turn ideas into useful soft
 
 ```text
 ╭─ CURRENT QUEST ───────────────────────────────╮
-│  Learn deeply. Build consistently. Stay curious.│
+│Learn deeply. Build consistently. Stay curious.│
 ╰───────────────────────────────────────────────╯
 ```
 
@@ -43,9 +43,9 @@ I’m Ojas, a B.Tech engineering student learning to turn ideas into useful soft
 
 ### 🔭 EventLens
 
-A featured project in my portfolio. **Add a verified one-sentence description of what EventLens does here.**
+A featured project in my portfolio. **EventLens is an event photography planning website. It helps a photographer or event organizer turn basic event details into a practical coverage plan before the event begins.**
 
-[**Open the EventLens repository →**](<EVENTLENS_REPOSITORY_URL>) · [Live demo](<EVENTLENS_DEMO_URL>)
+[**Open the EventLens repository →**](<https://github.com/OjasBali17/EventLens>) · [Live demo](<EVENTLENS_DEMO_URL>)
 
 > Replace the repository and demo URL placeholders, and replace the description prompt with confirmed project details before publishing.
 
