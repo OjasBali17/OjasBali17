@@ -58,33 +58,6 @@ A featured project in my portfolio. **EventLens is an event photography planning
 <img src="https://img.shields.io/badge/AI-exploring-090014?style=for-the-badge&logo=openai&logoColor=FF2BD6" alt="Artificial intelligence — exploring" />
 </p>
 
-## `04 // GITHUB SIGNALS`
-
-<div align="center">
-
-<a href="https://github.com/OjasBali17">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OjasBali17&show_icons=true&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E8E6F2&icon_color=FF2BD6&ring_color=FF2BD6&include_all_commits=true" alt="GitHub profile stats (service dependent)" />
-</a>
-<a href="https://github.com/OjasBali17">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjasBali17&layout=compact&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E8E6F2" alt="Most-used languages (service dependent)" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/OjasBali17">
-  <img src="https://streak-stats.demolab.com?user=OjasBali17&hide_border=true&background=090014&ring=FF2BD6&fire=FFE66D&currStreakLabel=00E5FF&sideLabels=E8E6F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9C94B8" alt="GitHub contribution streak (service dependent)" />
-</a>
-
-</div>
-
-<details>
-<summary><b>Stats cards not loading?</b></summary>
-
-The cards above are served by third-party services and can be rate-limited or temporarily unavailable. Refresh later, or remove the card images and keep the profile links. Your GitHub profile remains the source of truth: [github.com/OjasBali17](https://github.com/OjasBali17).
-
-</details>
 
 ## `05 // CONTRIBUTION SNAKE`
 
