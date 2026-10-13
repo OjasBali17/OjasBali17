@@ -14,11 +14,10 @@
 <a href="https://github.com/OjasBali17"><img src="https://img.shields.io/badge/GitHub-090014?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/ojas-bali-31106b364/"><img src="https://img.shields.io/badge/LinkedIn-090014?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
 <a href="mailto:ojasbali64@gmail.com"><img src="https://img.shields.io/badge/Email-090014?style=for-the-badge&logo=gmail&logoColor=FF2BD6" alt="Email" /></a>
-<a href="https://leetcode.com/REPLACE_WITH_YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-090014?style=for-the-badge&logo=leetcode&logoColor=FFE66D" alt="LeetCode — replace username" /></a>
 
 <br />
 
-<img src="https://img.shields.io/badge/STATUS-CURIOUS%20%26%20BUILDING-090014?style=flat-square&labelColor=090014&color=00E5FF" alt="Status: curious and building" />
+<img src="https://img.shields.io/badge/STATUS-CURIOUS%20%26%20BUILDING-090014?style=flat-square&labelColor=090014&color=00E5FF" alt="Status: Curious and Experimenting" />
 
 </div>
 
@@ -37,21 +36,18 @@ I’m Ojas, a B.Tech engineering student learning to turn ideas into useful soft
 - **Learning:** Data Structures & Algorithms, Java, C, Python, Machine Learning, software development
 - **Exploring:** Artificial Intelligence, prompt engineering, open source, problem solving
 - **Outside code:** Psychological thriller writing
-- **Long-term goal:** Grow into an AI and software engineer
-
+- **Long-term goal:** Grow into a Data Analyst and have an Independent Firm
 ## `02 // FEATURED PROJECT`
 
 ### 🔭 EventLens
 
 A featured project in my portfolio. **EventLens is an event photography planning website. It helps a photographer or event organizer turn basic event details into a practical coverage plan before the event begins.**
 
-[**Open the EventLens repository →**](<https://github.com/OjasBali17/EventLens>) · [Live demo](<EVENTLENS_DEMO_URL>)
+[**Open the EventLens repository →**](<https://github.com/OjasBali17/EventLens>) 
 
-> Replace the repository and demo URL placeholders, and replace the description prompt with confirmed project details before publishing.
 
 ## `03 // TECH STACK: LEARNING & EXPLORING`
 
-These badges represent areas I’m learning or exploring, not a claim of professional proficiency.
 
 <p>
 <img src="https://img.shields.io/badge/Java-learning-090014?style=for-the-badge&logo=openjdk&logoColor=00E5FF" alt="Java — learning" />
