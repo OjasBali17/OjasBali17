@@ -44,7 +44,7 @@ I’m Ojas, a B.Tech engineering student learning to turn ideas into useful soft
 A featured project in my portfolio. **EventLens is an event photography planning website. It helps a photographer or event organizer turn basic event details into a practical coverage plan before the event begins.**
 
 [**Open the EventLens repository →**](<https://github.com/OjasBali17/EventLens>) 
-[**Open the EventLens Live Demo →**](evventlens.vercel.app) 
+[**Open the EventLens Live Demo →**](<https://evventlens.vercel.app/>) 
 
 
 ## `03 // TECH STACK: LEARNING & EXPLORING`
